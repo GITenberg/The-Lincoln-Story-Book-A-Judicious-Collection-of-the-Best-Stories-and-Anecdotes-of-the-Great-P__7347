@@ -1,0 +1,27 @@
+_repo: The-Lincoln-Story-Book-A-Judicious-Collection-of-the-Best-Stories-and-Anecdotes-of-the-Great-P__7347
+contributor:
+  compiler:
+    agent_name: Williams, Henry Llewellyn
+    aliases:
+    - Williams, Llew
+    - Mizen, Mat
+    - Williams, H. L. (Henry Llewellyn)
+    - Mizzen, Matt
+    birthdate: 1842
+    gutenberg_agent_id: '2433'
+    url: http://www.gutenberg.org/2009/agents/2433
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Anecdotes'
+title: "The Lincoln Story Book\r\nA Judicious Collection of the Best Stories and Anecdotes\
+  \ of the Great President, Many Appearing Here for the First Time in Book Form"
+url: http://www.gutenberg.org/ebooks/7347
